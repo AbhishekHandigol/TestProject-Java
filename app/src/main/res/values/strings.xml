@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidUpdateTemplateApp</string>
+    <string name="check_for_updates">Check for Updates</string>
+</resources>
